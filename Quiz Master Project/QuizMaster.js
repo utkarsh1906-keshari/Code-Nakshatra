@@ -28,7 +28,6 @@ const ALL_QUESTIONS = {
     {q:"Which continent is the Sahara Desert located in?",opts:["Asia","Australia","South America","Africa"],ans:3,exp:"The Sahara is the world's largest hot desert, covering much of North Africa."}
   ]
 };
-
 const ICONS = {"Science":"🔬","History":"🏛️","Technology":"💻","Geography":"🌍"};
 const COLORS = {"Science":"#378ADD","History":"#D85A30","Technology":"#1D9E75","Geography":"#7F77DD"};
 const TIME_LIMIT = 15;
